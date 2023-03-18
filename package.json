@@ -1,0 +1,17 @@
+{
+  "name": "booklight-shared",
+  "version": "1.0.0",
+  "description": "Contracts to be used by microservices",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Bogdan Yarotsky",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
